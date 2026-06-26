@@ -1,4 +1,5 @@
-public class UC1_EmployeeWage {
+
+public class UC1EmployeeWage {
     public static void main(String[] args) {
 
         int isPresent = (int)(Math.random() * 2);
